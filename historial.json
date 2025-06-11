@@ -1,0 +1,686 @@
+[
+    {
+        "ganador": [
+            9,
+            24,
+            31,
+            35,
+            45,
+            49
+        ],
+        "resultados": [
+            {
+                "boleto": [
+                    3,
+                    6,
+                    19,
+                    28,
+                    31,
+                    46
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    4,
+                    12,
+                    30,
+                    42,
+                    44,
+                    45
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    6,
+                    9,
+                    24,
+                    41,
+                    43,
+                    44
+                ],
+                "aciertos": 2,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    4,
+                    6,
+                    7,
+                    13,
+                    17,
+                    35
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    11,
+                    32,
+                    33,
+                    35,
+                    46,
+                    49
+                ],
+                "aciertos": 2,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    10,
+                    13,
+                    15,
+                    22,
+                    43,
+                    45
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    1,
+                    11,
+                    13,
+                    25,
+                    29,
+                    42
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    7,
+                    12,
+                    18,
+                    21,
+                    26,
+                    30
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    12,
+                    25,
+                    26,
+                    36,
+                    42,
+                    43
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    5,
+                    6,
+                    12,
+                    15,
+                    25,
+                    38
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            }
+        ]
+    },
+    {
+        "ganador": [
+            18,
+            21,
+            23,
+            24,
+            27,
+            40
+        ],
+        "resultados": [
+            {
+                "boleto": [
+                    1,
+                    4,
+                    6,
+                    12,
+                    27,
+                    34
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            }
+        ]
+    },
+    {
+        "ganador": [
+            3,
+            6,
+            8,
+            11,
+            18,
+            32
+        ],
+        "resultados": [
+            {
+                "boleto": [
+                    1,
+                    2,
+                    3,
+                    5,
+                    6,
+                    12
+                ],
+                "aciertos": 2,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "aciertos": 2,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    9,
+                    14,
+                    20,
+                    35,
+                    41,
+                    42
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    1,
+                    4,
+                    5,
+                    17,
+                    29,
+                    43
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    3,
+                    6,
+                    9,
+                    17,
+                    18,
+                    33
+                ],
+                "aciertos": 3,
+                "premio": "Premio peque\u00f1o"
+            },
+            {
+                "boleto": [
+                    15,
+                    16,
+                    23,
+                    28,
+                    40,
+                    49
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    5,
+                    8,
+                    17,
+                    27,
+                    37,
+                    38
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    1,
+                    9,
+                    14,
+                    23,
+                    38,
+                    47
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    2,
+                    5,
+                    20,
+                    28,
+                    30,
+                    36
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    3,
+                    15,
+                    17,
+                    21,
+                    26,
+                    39
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    24,
+                    25,
+                    33,
+                    34,
+                    36,
+                    39
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    1,
+                    11,
+                    15,
+                    20,
+                    32,
+                    46
+                ],
+                "aciertos": 2,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    2,
+                    16,
+                    26,
+                    29,
+                    39,
+                    42
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    5,
+                    17,
+                    20,
+                    24,
+                    25,
+                    32
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    2,
+                    11,
+                    12,
+                    24,
+                    30,
+                    46
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    5,
+                    6,
+                    7,
+                    22,
+                    34,
+                    44
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    18,
+                    19,
+                    20,
+                    40,
+                    46,
+                    47
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    19,
+                    21,
+                    33,
+                    44,
+                    45,
+                    47
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    5,
+                    7,
+                    8,
+                    15,
+                    42,
+                    47
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    2,
+                    25,
+                    29,
+                    30,
+                    39,
+                    48
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    6,
+                    8,
+                    14,
+                    29,
+                    40,
+                    45
+                ],
+                "aciertos": 2,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    1,
+                    3,
+                    4,
+                    12,
+                    37,
+                    49
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            }
+        ]
+    },
+    {
+        "ganador": [
+            25,
+            26,
+            31,
+            34,
+            43,
+            45
+        ],
+        "resultados": [
+            {
+                "boleto": [
+                    3,
+                    14,
+                    24,
+                    32,
+                    35,
+                    38
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    5,
+                    10,
+                    27,
+                    28,
+                    30,
+                    49
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    3,
+                    9,
+                    11,
+                    23,
+                    31,
+                    48
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    3,
+                    13,
+                    18,
+                    22,
+                    25,
+                    39
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    11,
+                    20,
+                    24,
+                    38,
+                    39,
+                    47
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    2,
+                    4,
+                    27,
+                    33,
+                    38,
+                    48
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    2,
+                    7,
+                    11,
+                    32,
+                    36,
+                    42
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    1,
+                    4,
+                    10,
+                    20,
+                    28,
+                    41
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    2,
+                    6,
+                    21,
+                    23,
+                    25,
+                    26
+                ],
+                "aciertos": 2,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    5,
+                    10,
+                    29,
+                    30,
+                    44,
+                    48
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    13,
+                    20,
+                    21,
+                    26,
+                    29,
+                    40
+                ],
+                "aciertos": 1,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    6,
+                    14,
+                    18,
+                    28,
+                    36,
+                    47
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    2,
+                    3,
+                    5,
+                    18,
+                    35,
+                    37
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    1,
+                    6,
+                    23,
+                    28,
+                    35,
+                    36
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    10,
+                    23,
+                    24,
+                    36,
+                    46,
+                    48
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    13,
+                    18,
+                    24,
+                    25,
+                    26,
+                    37
+                ],
+                "aciertos": 2,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    19,
+                    20,
+                    26,
+                    31,
+                    33,
+                    41
+                ],
+                "aciertos": 2,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    6,
+                    17,
+                    27,
+                    36,
+                    39,
+                    46
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    4,
+                    6,
+                    20,
+                    23,
+                    33,
+                    36
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            },
+            {
+                "boleto": [
+                    8,
+                    16,
+                    24,
+                    27,
+                    37,
+                    48
+                ],
+                "aciertos": 0,
+                "premio": "Sin premio"
+            }
+        ]
+    }
+]
