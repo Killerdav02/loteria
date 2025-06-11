@@ -93,6 +93,7 @@ def guardar_historial(data, archivo="historial.json"):
         json.dump(historial, f, indent=4)
 
 
+
 def simular_juegos():
     try:
         n = int(input("¿Cuántas simulaciones deseas hacer?: "))

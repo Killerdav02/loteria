@@ -1,70 +1,22 @@
 [
     {
         "ganador": [
-            1,
-            5,
-            10,
-            14,
+            12,
+            22,
             34,
-            42
+            41,
+            44,
+            46
         ],
         "resultados": [
             {
                 "boleto": [
-                    10,
-                    13,
-                    14,
-                    18,
-                    19,
-                    39
-                ],
-                "aciertos": 2,
-                "premio": "Sin premio"
-            },
-            {
-                "boleto": [
-                    5,
-                    13,
-                    17,
-                    23,
-                    26,
-                    35
-                ],
-                "aciertos": 1,
-                "premio": "Sin premio"
-            },
-            {
-                "boleto": [
-                    8,
-                    26,
-                    27,
-                    42,
-                    46,
-                    47
-                ],
-                "aciertos": 1,
-                "premio": "Sin premio"
-            },
-            {
-                "boleto": [
+                    1,
                     2,
-                    7,
-                    19,
-                    27,
-                    31,
-                    43
-                ],
-                "aciertos": 0,
-                "premio": "Sin premio"
-            },
-            {
-                "boleto": [
-                    18,
-                    23,
-                    30,
-                    31,
-                    35,
-                    48
+                    3,
+                    4,
+                    5,
+                    6
                 ],
                 "aciertos": 0,
                 "premio": "Sin premio"

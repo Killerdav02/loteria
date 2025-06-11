@@ -15,6 +15,6 @@ def calcular_premio(aciertos):
         3: "Premio pequeño",
         4: "Premio mediano",
         5: "Premio grande",
-        6: "¡Premio mayor!"
+        6: "🎉 ¡Premio mayor!",
     }
     return premios.get(aciertos, "Sin premio")
