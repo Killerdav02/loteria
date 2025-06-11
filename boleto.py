@@ -2,6 +2,7 @@ import random
 
 boletos_actuales = []
 
+
 def comprar_boleto_manual():
     print("\nIngresa 6 números únicos entre 1 y 49:")
     try:
@@ -12,8 +13,9 @@ def comprar_boleto_manual():
             or not all(1 <= n <= 49 for n in numeros)
         ):
             raise ValueError
-        boletos_actuales.append(sorted(numeros))
-        print("✅ Boleto guardado:", sorted(numeros))
+        boleto = sorted(numeros)
+        boletos_actuales.append(boleto)
+        print("✅ Boleto guardado:", boleto)
     except ValueError:
         print("❌ Entrada no válida. Intenta de nuevo.")
 
